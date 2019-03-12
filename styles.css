@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    display: flex;
+    }
+img{
+    height: 200px;
+    margin: 10px;
+}
+ol li {
+    background: #0D219B;
+    color: #fff;
+    margin: 10px;
+    padding: 5px;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 3px;
+}
